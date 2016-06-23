@@ -8,6 +8,7 @@ POPULAR libraries with many stars only.
 # Networking
 
 ## Image Downloader
+- [AlamofireImage](https://cocoapods.org/pods/AlamofireImage) - [Github](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire
 - [SDWebImage](https://cocoapods.org/pods/SDWebImage) - [Github](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category.
 
 ## Networking Framework
