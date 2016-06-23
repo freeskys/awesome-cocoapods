@@ -3,7 +3,11 @@ Awesome list for cocoapods support libraries.
 POPULAR libraries with many stars only.
 
 # Table of Contents
+- [Charts](https://github.com/freeskys/awesome-cocoapods#charts)
 - [Networking](https://github.com/freeskys/awesome-cocoapods#networking)
+
+# Charts
+- [Charts](https://cocoapods.org/pods/Charts) - [Github](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 
 # Networking
 
