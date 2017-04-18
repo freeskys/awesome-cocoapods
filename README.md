@@ -22,6 +22,7 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 ## Networking Framework
 - [Alamofire](https://cocoapods.org/pods/Alamofire) - [[Github](https://github.com/Alamofire/Alamofire)] - Elegant HTTP Networking in Swift.
 - [Moya](https://cocoapods.org/pods/Moya) - [[Github](https://github.com/Moya/Moya)] - Network abstraction layer written in Swift.
+- [ReachabilitySwift](https://cocoapods.org/pods/ReachabilitySwift) - [[Github](https://github.com/ashleymills/Reachability.swift)] - Replacement for Apple's Reachability re-written in Swift with closures.
 
 # Reactive
 
