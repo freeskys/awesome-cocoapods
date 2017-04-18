@@ -16,6 +16,7 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 - [Kingfisher](https://cocoapods.org/pods/Kingfisher) - [[Github](https://github.com/onevcat/Kingfisher)] - A lightweight, pure-Swift library for downloading and caching images from the web.
 
 ## JSON
+- [Argo](https://cocoapods.org/pods/Argo) - [[Github](https://github.com/thoughtbot/Argo)] - Functional JSON parsing library for Swift.
 - [ObjectMapper](https://cocoapods.org/pods/ObjectMapper) - [[Github](https://github.com/Hearst-DD/ObjectMapper)] - Simple JSON Object mapping written in Swift.
 - [SwiftyJSON](https://cocoapods.org/pods/SwiftyJSON) - [[Github](https://github.com/SwiftyJSON/SwiftyJSON)] - The better way to deal with JSON data in Swift.
 
