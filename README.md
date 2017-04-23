@@ -34,3 +34,6 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 
 # UI
 - [PermissionScope](https://cocoapods.org/pods/PermissionScope) - [[Github](https://github.com/nickoneill/PermissionScope)] - Intelligent iOS permissions UI and unified API.
+
+## Loading Indicator
+- [NVActivityIndicatorView](https://cocoapods.org/pods/NVActivityIndicatorView) - [[Github](https://github.com/ninjaprox/NVActivityIndicatorView)] - Collection of awesome loading animations.
