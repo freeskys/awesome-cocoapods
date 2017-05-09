@@ -6,6 +6,7 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 - [Charts](https://github.com/freeskys/awesome-cocoapods#charts)
 - [Networking](https://github.com/freeskys/awesome-cocoapods#networking)
 - [Reactive](https://github.com/freeskys/awesome-cocoapods#reactive)
+- [Security](https://github.com/freeskys/awesome-cocoapods#security)
 - [UI](https://github.com/freeskys/awesome-cocoapods#ui)
 
 # Charts
@@ -31,6 +32,11 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 ## Reactive Programming
 - [ReactiveSwift](https://cocoapods.org/pods/ReactiveSwift) - [[Github](https://github.com/ReactiveCocoa/ReactiveSwift)] - Streams of values over time.
 - [RxSwift](https://cocoapods.org/pods/RxSwift) - [[Github](https://github.com/ReactiveX/RxSwift)] - Reactive Programming in Swift.
+
+# Security
+
+## Encryption
+- [CryptoSwift](https://cocoapods.org/pods/CryptoSwift) - [[Github](https://github.com/krzyzanowskim/CryptoSwift)] - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift.
 
 # UI
 - [Koloda](https://cocoapods.org/pods/Koloda) - [[Github](https://github.com/Yalantis/Koloda)] - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
