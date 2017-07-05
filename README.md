@@ -3,11 +3,15 @@ Awesome list for **cocoapods** support libraries.
 POPULAR libraries with **many stars** and **SWIFT** only.
 
 # Table of Contents
+- [Analytics](https://github.com/freeskys/awesome-cocoapods#analytics)
 - [Charts](https://github.com/freeskys/awesome-cocoapods#charts)
 - [Networking](https://github.com/freeskys/awesome-cocoapods#networking)
 - [Reactive](https://github.com/freeskys/awesome-cocoapods#reactive)
 - [Security](https://github.com/freeskys/awesome-cocoapods#security)
 - [UI](https://github.com/freeskys/awesome-cocoapods#ui)
+
+# Analytics
+- [FirebaseAnalytics](https://cocoapods.org/pods/FirebaseAnalytics) - Firebase Analytics is a free, out-of-the-box analytics solution that inspires actionable insights based on app usage and user engagement.
 
 # Charts
 - [Charts](https://cocoapods.org/pods/Charts) - [[Github](https://github.com/danielgindi/Charts)] - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
