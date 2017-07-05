@@ -4,6 +4,7 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 
 # Table of Contents
 - [Analytics](https://github.com/freeskys/awesome-cocoapods#analytics)
+- [Crash Reporting](https://github.com/freeskys/awesome-cocoapods#crash-reporting)
 - [Charts](https://github.com/freeskys/awesome-cocoapods#charts)
 - [Networking](https://github.com/freeskys/awesome-cocoapods#networking)
 - [Reactive](https://github.com/freeskys/awesome-cocoapods#reactive)
@@ -12,6 +13,9 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 
 # Analytics
 - [FirebaseAnalytics](https://cocoapods.org/pods/FirebaseAnalytics) - Firebase Analytics is a free, out-of-the-box analytics solution that inspires actionable insights based on app usage and user engagement.
+
+# Crash Reporting
+- [Crashlytics by Fabric](https://cocoapods.org/pods/Fabric) - Fabric provides developers with the tools they need to build the best apps. Developed and maintained by Twitter and the team that built Crashlytics, Fabric provides an easy way to manage all your SDKs so that you’ll never have to worry about tedious configurations or juggling different accounts. We let you get right into coding and building the next big app.
 
 # Charts
 - [Charts](https://cocoapods.org/pods/Charts) - [[Github](https://github.com/danielgindi/Charts)] - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
