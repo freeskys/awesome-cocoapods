@@ -51,6 +51,9 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 ## Animation
 - [Hero](https://cocoapods.org/pods/Hero) - [[Github](https://github.com/lkzhao/Hero)] - Elegant transition library for iOS & tvOS.
 
+## Themes
+- [Material](https://cocoapods.org/pods/Material) - [[Github](https://github.com/CosmicMind/Material)] - Material Design library used to create beautiful applications.
+
 ## UI
 - [Koloda](https://cocoapods.org/pods/Koloda) - [[Github](https://github.com/Yalantis/Koloda)] - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 - [PermissionScope](https://cocoapods.org/pods/PermissionScope) - [[Github](https://github.com/nickoneill/PermissionScope)] - Intelligent iOS permissions UI and unified API.
