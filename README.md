@@ -47,6 +47,11 @@ POPULAR libraries with **many stars** and **SWIFT** only.
 - [CryptoSwift](https://cocoapods.org/pods/CryptoSwift) - [[Github](https://github.com/krzyzanowskim/CryptoSwift)] - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift.
 
 # UI
+
+## Animation
+- [Hero](https://cocoapods.org/pods/Hero) - [[Github](https://github.com/lkzhao/Hero)] - Elegant transition library for iOS & tvOS.
+
+## UI
 - [Koloda](https://cocoapods.org/pods/Koloda) - [[Github](https://github.com/Yalantis/Koloda)] - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 - [PermissionScope](https://cocoapods.org/pods/PermissionScope) - [[Github](https://github.com/nickoneill/PermissionScope)] - Intelligent iOS permissions UI and unified API.
 - [XLPagerTabStrip](https://cocoapods.org/pods/XLPagerTabStrip) - [[Github](https://github.com/xmartlabs/XLPagerTabStrip)] - Android PagerTabStrip for iOS.
